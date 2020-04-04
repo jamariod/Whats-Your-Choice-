@@ -1,5 +1,5 @@
 # Whats-Your-Choice-
-What's Your Choice app allows users with communication challenges the ability to answer or give responses to most common questions in various languages. This app was written in Swift 4. 
+What's Your Choice app allows users with communication challenges the ability to answer or give responses to most common questions in various languages. This app was written in Swift 4 and is currently available for download in the App Store. 
 
 Video demo of Whats Your Choice app https://www.youtube.com/watch?v=8dO-bWNUTrc&t=5s
 
